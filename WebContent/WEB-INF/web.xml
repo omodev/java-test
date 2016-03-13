@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>CreationClient</servlet-name>
+<servlet-class>com.sdzee.servlets.CreationClient</servlet-class>
+</servlet>
+<servlet>
+
+<servlet-mapping>
+<servlet-name>CreationClient</servlet-name>
+<url-pattern>/creationClient</url-pattern>
+</servlet-mapping>
+</servlet>
+</web-app>
